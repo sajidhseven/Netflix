@@ -33,7 +33,7 @@ const HireMe = () => {
             </p> */}
             
             <a 
-              href="https://www.linkedin.com/in/mohammad-sajidh-ali-633bb3212/" 
+              href="#" 
               target="_blank" 
               rel="noopener noreferrer"
               className="view-profile-btn"
@@ -72,5 +72,6 @@ const HireMe = () => {
 };
 
 export default HireMe;
+
 
 
