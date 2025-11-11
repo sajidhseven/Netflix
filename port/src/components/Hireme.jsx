@@ -27,11 +27,7 @@ const HireMe = () => {
               With expertise in full-stack development, skilled in ReactJs, 
               NodeJs, ExpressJs, MongoDB, SQL, Python, and Java.
             </p>
-            
-            {/* <p className="profile-education">
-              Kajima Community | Swansea University
-            </p> */}
-            
+           
             <a 
               href="#" 
               target="_blank" 
@@ -62,16 +58,14 @@ const HireMe = () => {
           </a>
         </div>
 
-        {/* Coffee Message */}
-        {/* <div className="coffee-message">
-          <p>Or catch up over a coffee ☕ 🍵</p>
-        </div> */}
+        
       </div>
     </div>
   );
 };
 
 export default HireMe;
+
 
 
 
