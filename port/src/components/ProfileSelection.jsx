@@ -10,7 +10,7 @@ const ProfileSelection = () => {
     {
       id: 1,
       name: 'Recruiter',
-      image: 'https://www.pinterest.com/pin/639018634670352062/',
+      image: 'https://pin.it/7L6eMcthv',
       route: '/home'
     },
     {
