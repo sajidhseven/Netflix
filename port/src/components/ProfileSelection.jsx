@@ -10,19 +10,19 @@ const ProfileSelection = () => {
     {
       id: 1,
       name: 'Recruiter',
-      image: 'https://pin.it/7L6eMcthv',
+      image: 'https://user-gen-media-assets.s3.amazonaws.com/seedream_images/f8bfb35d-17a3-4460-8211-7febc70c92b3.png',
       route: '/home'
     },
     {
       id: 2,
       name: 'Developer',
-      image: 'https://www.pinterest.com/pin/214484000998761471/',
+      image: 'https://user-gen-media-assets.s3.amazonaws.com/seedream_images/625c2a91-257e-4092-a247-af04dbc0fdcf.png',
       route: '/home'
     },
     {
       id: 3,
       name: 'Stalker',
-      image: 'https://www.pinterest.com/pin/375909900167651520/',
+      image: 'https://user-gen-media-assets.s3.amazonaws.com/seedream_images/89e74f18-69c9-48e1-9c34-1dd2dfe6e495.png',
       route: '/home'
     }
   ];
@@ -65,4 +65,5 @@ const ProfileSelection = () => {
 };
 
 export default ProfileSelection;
+
 
