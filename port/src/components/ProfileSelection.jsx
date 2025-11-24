@@ -10,19 +10,19 @@ const ProfileSelection = () => {
     {
       id: 1,
       name: 'Recruiter',
-      image: 'https://user-gen-media-assets.s3.amazonaws.com/seedream_images/f8bfb35d-17a3-4460-8211-7febc70c92b3.png',
+      image: 'https://res.cloudinary.com/dax1r9pni/image/upload/v1763962286/klaus_uox1pn.webp',
       route: '/home'
     },
     {
       id: 2,
       name: 'Developer',
-      image: 'https://user-gen-media-assets.s3.amazonaws.com/seedream_images/625c2a91-257e-4092-a247-af04dbc0fdcf.png',
+      image: 'https://res.cloudinary.com/dax1r9pni/image/upload/v1763962775/Elijan_ukuspx.jpg',
       route: '/home'
     },
     {
       id: 3,
       name: 'Stalker',
-      image: 'https://user-gen-media-assets.s3.amazonaws.com/seedream_images/89e74f18-69c9-48e1-9c34-1dd2dfe6e495.png',
+      image: 'https://res.cloudinary.com/dax1r9pni/image/upload/v1763962265/damon_lllgdb.webp',
       route: '/home'
     }
   ];
@@ -65,5 +65,6 @@ const ProfileSelection = () => {
 };
 
 export default ProfileSelection;
+
 
 
