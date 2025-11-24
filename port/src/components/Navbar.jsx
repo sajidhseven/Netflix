@@ -13,9 +13,9 @@ const Navbar = () => {
   useEffect(() => {
     // Profile images mapping
     const profileImages = {
-      'Recruiter': 'https://user-gen-media-assets.s3.amazonaws.com/seedream_images/f8bfb35d-17a3-4460-8211-7febc70c92b3.png',
-      'Developer': 'https://user-gen-media-assets.s3.amazonaws.com/seedream_images/625c2a91-257e-4092-a247-af04dbc0fdcf.png',
-      'Stalker': 'https://user-gen-media-assets.s3.amazonaws.com/seedream_images/89e74f18-69c9-48e1-9c34-1dd2dfe6e495.png'
+      'Recruiter': 'https://res.cloudinary.com/dax1r9pni/image/upload/v1763962286/klaus_uox1pn.webp',
+      'Developer': 'https://res.cloudinary.com/dax1r9pni/image/upload/v1763962775/Elijan_ukuspx.jpg',
+      'Stalker': 'https://res.cloudinary.com/dax1r9pni/image/upload/v1763962265/damon_lllgdb.webp'
     };
 
     // Get selected profile from sessionStorage
@@ -113,3 +113,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
